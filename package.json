@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@jitsi/react-sdk": "^1.4.4",
-    "firebase": "^12.1.0",
+    "firebase": "^12.8.0",
     "next": "^15.5.0",
     "react": "19.1.0",
     "react-dom": "19.1.0",
